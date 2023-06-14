@@ -1,0 +1,20 @@
+.class-text {
+    background-color: rgb(255, 118, 175);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.class-text.different {
+    font-size: 24px;
+}
+
+#title {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#body {
+    background-color: rgb(138, 255, 153);
+    font-size: 24px;
+    font-weight: bold;
+
+}
