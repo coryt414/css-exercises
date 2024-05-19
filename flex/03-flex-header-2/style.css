@@ -36,6 +36,7 @@ body {
 .left-side {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .right-side {
@@ -62,5 +63,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 16px;
+  margin: 0;
+  padding: 0;
+  gap:8px;
 }
